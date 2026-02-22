@@ -10,9 +10,3 @@ This program displays an information message box when the user clicks a button.
 
 ## 🖥️ Preview
 When you click the **Press** button, an info popup appears displaying a message.
-
-
-
-
-
-
